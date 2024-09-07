@@ -1,1 +1,13 @@
 # mySoftList
+1. [WinIPBroadcast](https://github.com/dechamps/WinIPBroadcast)
+2. [FreeCAD-Bundle/releases/tag/weekly-builds](https://github.com/FreeCAD/FreeCAD-Bundle/releases/tag/weekly-builds)
+3. [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+4. [CreamInstaller](https://github.com/pointfeev/CreamInstaller)
+5. [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)
+6. [youtube-auto-liker](https://github.com/HatScripts/youtube-auto-liker)
+7. [ReTube](https://github.com/Eject37/ReTube)
+8. [steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities)
+9. [voice-over-translation](https://github.com/ilyhalight/voice-over-translation)
+10. [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+11. [Creality-Helper-Script](https://github.com/Guilouz/Creality-Helper-Script)
+12. [GreenLuma-2024-Manager](https://github.com/BlueAmulet/GreenLuma-2024-Manager)
